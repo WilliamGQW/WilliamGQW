@@ -1,14 +1,9 @@
-<!-- <p align="center">
-<a href="https://github.com/WilliamGqw">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=FF5F0F&multiline=true&width=435&height=80&lines=Will+Gu;MSCS+@+USC+%7C+Software+Engineer" alt="Typing SVG" /></a>
-</a>
- -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=FF5F0F&multiline=true&width=535&height=80&lines=Hello!+I'm+Will+Gu+%F0%9F%91%8B;MSCS+@+USC+%7C+UIUCer+%7C+Software+Engineer)](https://git.io/typing-svg)
 
 ### A little about me...
 - 💻 **Graduating in May 2023 and seeking full-time SDE opportunities**
 - 🧑‍💻 I’m currently learning React, TypeScript, and front-end development in general
-- 🖥️ Passionate about Data (Data Science, Data Engineering, Machine Learning)
+- 🖥️ Passionate about Data (Data Science, Data Engineering), Machine Learning, Natural Language Processing, Artificial Intelligence, Cloud Computing, and Full Stack development.
 - 👨‍🍳 Always cooking
 
 ### Connect with me
