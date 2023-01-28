@@ -11,6 +11,10 @@
 - 🖥️ Passionate about Data (Data Science, Data Engineering, Machine Learning)
 - 👨‍🍳 Always cooking
 
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/quanwei-gu/)](https://www.linkedin.com/in/quanwei-gu/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:williamgqw@gmail.com)](mailto:williamgqw@gmail.com)
+
 ### Skills Set
 
 ### Languages
