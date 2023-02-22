@@ -4,7 +4,7 @@
 - 💻 **Graduating in May 2023 and seeking full-time SDE opportunities**
 - 🧑‍💻 I’m currently learning React, TypeScript, and front-end development in general
 - 🖥️ Passionate about Data (Data Science, Data Engineering), Machine Learning, Natural Language Processing, Artificial Intelligence, Cloud Computing, and Full Stack development.
-- 👨‍🍳 Always cooking
+- 👨‍🍳 Always cooking (Chinese, Korean, Japanese... You name it. Probably I should make an ins account for my dishes.)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/quanwei-gu/)](https://www.linkedin.com/in/quanwei-gu/)
