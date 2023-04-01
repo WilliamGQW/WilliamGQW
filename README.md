@@ -2,8 +2,8 @@
 
 ### A little about me...
 - 💻 **Graduating in May 2023 and seeking full-time SDE opportunities**
-- 🧑‍💻 I’m currently learning React, TypeScript, and front-end development in general
-- 🖥️ Passionate about Data (Data Science, Data Engineering), Machine Learning, Natural Language Processing, Artificial Intelligence, Cloud Computing, and Full Stack development.
+- 🧑‍💻 I’m currently honing my skills in TypeScript, and front-end development in general
+- 🖥️ Passionate about Full-stack Development, Data (Data Science, Data Engineering), Machine Learning, Natural Language Processing, Artificial Intelligence, Cloud Computing.
 - 👨‍🍳 Always cooking (Chinese, Korean, Japanese... You name it. Probably I should make an ins account for my dishes.)
 
 ### Connect with me
