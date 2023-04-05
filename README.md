@@ -2,8 +2,7 @@
 
 ### A little about me...
 - 💻 **Graduating in May 2023 and seeking full-time SDE opportunities**
-- 🧑‍💻 I’m currently honing my skills in TypeScript, and front-end development in general
-- 🖥️ Passionate about Full-stack Development, Data (Data Science, Data Engineering), Machine Learning, Natural Language Processing, Artificial Intelligence, Cloud Computing.
+- 🖥️ Passionate about Full-stack Development, Data (Data Science, Data Engineering), Machine Learning, Cloud Computing.
 - 👨‍🍳 Always cooking (Chinese, Korean, Japanese... You name it. Probably I should make an ins account for my dishes.)
 
 ### Connect with me
@@ -20,6 +19,9 @@
 
 
 ### Technologies:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,9 +38,6 @@
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
