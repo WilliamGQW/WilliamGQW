@@ -2,8 +2,8 @@
 
 ### A little about me...
 - 💻 **Graduating in May 2023 and seeking full-time SDE opportunities**
-- 🖥️ Passionate about Full-stack Development, Data (Data Science, Data Engineering), Machine Learning, Cloud Computing.
-- 👨‍🍳 Always cooking (Chinese, Korean, Japanese... You name it. Probably I should make an ins account for my dishes.)
+- 👨‍💻 Passionate about Full-stack Development, Data (Data Science, Data Engineering), Machine Learning, Cloud Computing.
+- 👨‍🍳 Always cooking (Chinese, Korean, Japanese (Ramen, Sushi)... You name it. Probably I should make an ins account for my dishes.)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/quanwei-gu/)](https://www.linkedin.com/in/quanwei-gu/)
