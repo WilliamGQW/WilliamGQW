@@ -4,7 +4,7 @@
 - 💻 **Software Engineer @Codazen X  Meta Reality Labs**
 - 👨‍💻 Passionate about AI agents, Full-stack development, System design, and anything related to big data.
 - 👨‍🍳 Always cooking (Chinese, Korean, Japanese (Ramen, Sushi)... Probably I should make an ins account for my dishes.)
-- 🪄 Aspiring Magician
+- 🪄 Aspiring Magician (yes)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/quanwei-gu/)](https://www.linkedin.com/in/quanwei-gu/)
