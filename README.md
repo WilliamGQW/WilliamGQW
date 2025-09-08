@@ -1,14 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=FF5F0F&multiline=true&width=535&height=80&lines=Hello!+I'm+Will+Gu+%F0%9F%91%8B;MSCS+@+USC+%7C+UIUCer+%7C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1000&pause=100&color=09212B&multiline=true&width=800&height=100&lines=This+is+Will+Gu!;Full-Stack+Engineer+%7C+Distinguished+Prompt+Engineer+;MSCS+%40+USC+%7C+CS+%40+UIUC)](https://git.io/typing-svg)
 
 ### A little about me...
-- 💻 **Graduating in May 2023 and seeking full-time SDE opportunities**
-- 👨‍💻 Passionate about Full-stack Development, Data (Data Science, Data Engineering), Machine Learning, Cloud Computing.
+- 💻 **Software Engineer @Codazen X  Meta Reality Labs**
+- 👨‍💻 Passionate about AI agents, Full-stack development, System design, and anything related to big data.
 - 👨‍🍳 Always cooking (Chinese, Korean, Japanese (Ramen, Sushi)... Probably I should make an ins account for my dishes.)
-- 🪄 Aspiring Magician (wait, for real?)
+- 🪄 Aspiring Magician
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/quanwei-gu/)](https://www.linkedin.com/in/quanwei-gu/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:williamgqw@gmail.com)](mailto:williamgqw@gmail.com)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
